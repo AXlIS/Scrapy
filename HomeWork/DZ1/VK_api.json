@@ -1,0 +1,458 @@
+{
+    "response": {
+        "count": 45,
+        "items": [
+            {
+                "id": 16108331,
+                "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 ITmozg:",
+                "screen_name": "itmozg",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-15.userapi.com/s/v1/ig1/V6A7b1IU99GNtHR6OGzBSQh2MCl9Q080hVxsFtrEDEVGPPVg7QveK4H-iJBU0SKLWCZFDA.jpg?size=50x0&quality=96&crop=0,160,200,200&ava=1",
+                "photo_100": "https://sun1-15.userapi.com/s/v1/ig1/OXavvfvbRWPYJ9fzCpeGZtxRoSzHvoShvAmPLER-kcRyoG2Tf-CJszG1e487aBAX0c69wg.jpg?size=100x0&quality=96&crop=0,160,200,200&ava=1",
+                "photo_200": "https://sun1-15.userapi.com/s/v1/ig1/1aTt5RCMs-Cpx4GNjuA3A-JRlm_iZZ1ZA12E69gKD04PYDzG_6CFoOlpFQiIZVZKxnAU_w.jpg?size=200x0&quality=96&crop=0,160,200,200&ava=1"
+            },
+            {
+                "id": 28905875,
+                "name": "\u0420\u0438\u0444\u043c\u044b \u0438 \u041f\u0430\u043d\u0447\u0438",
+                "screen_name": "rhymes",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-94.userapi.com/s/v1/ig2/jHfe9VZKhRK8skSjjxGm_h9HS2H7r4XD-PlP9Q8VXrBI2l1LcrVUN1XO0P3qAUB_KRA5Ewn12XlbMJdOYONZkx9Q.jpg?size=50x0&quality=96&crop=226,129,1707,1707&ava=1",
+                "photo_100": "https://sun1-94.userapi.com/s/v1/ig2/W22DM8FNiUhbt5F8ZQEt2v1NTYOkxXWV5_Xpe_aJFexbSL6E3gaoYM3tQmNvGnUz7yFosBhSKQFJKbn7kYcy5ltf.jpg?size=100x0&quality=96&crop=226,129,1707,1707&ava=1",
+                "photo_200": "https://sun1-94.userapi.com/s/v1/ig2/Ti8OouPX3BQEfm9-58Gl3xNoLpZAwvWPjfDWS0BPe2CcWu2ar0ruSCPZkf5LLMHyPCF_byrJiGaTCILiZQnGDX5w.jpg?size=200x0&quality=96&crop=226,129,1707,1707&ava=1"
+            },
+            {
+                "id": 183460226,
+                "name": "\u0412\u0435\u0431-\u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430",
+                "screen_name": "tproger_web",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-88.userapi.com/s/v1/ig2/BCQ7FbmLWjO7pPueCObZhHdqmxM-G4kFbMq5FAnUeW0u6lcK6R7aBsqMynDfV1du3dCOgasP201aK2rvu-SKuiYi.jpg?size=50x0&quality=96&crop=0,0,1147,1147&ava=1",
+                "photo_100": "https://sun1-88.userapi.com/s/v1/ig2/VJSNoOyF8BTiv53NVf1HZgybAQkcSgR-h-BgQ-KWHKz9j_JT06951k5O1l8xCEhwSyf53Coy6X3OvrPsbmjmlliJ.jpg?size=100x0&quality=96&crop=0,0,1147,1147&ava=1",
+                "photo_200": "https://sun1-88.userapi.com/s/v1/ig2/kX8MdssYwWz0eZ9LcpSj35XNIflvZ6b9-YZ2QXCiyu84eJfgxGmindn6VdKwYxLQTo5SdWxTpV8GaLq3YQXj8C_G.jpg?size=200x0&quality=96&crop=0,0,1147,1147&ava=1"
+            },
+            {
+                "id": 79831840,
+                "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+                "screen_name": "bookflow",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-28.userapi.com/s/v1/if1/6GKzlGCQRC3Awcwe1yHqM-TeiUvHp29GlanDq3JS_vpHsCapLqQr3QFODQRGcEtFoiZQnmCn.jpg?size=50x0&quality=96&crop=0,0,512,512&ava=1",
+                "photo_100": "https://sun1-28.userapi.com/s/v1/if1/_18dz6txN8ag9YfMiZzy9JWZBAIfWrXjNsO6rDYkt4YwcNl_KFSQuIDn1llwYsCAEsOPNTzP.jpg?size=100x0&quality=96&crop=0,0,512,512&ava=1",
+                "photo_200": "https://sun1-28.userapi.com/s/v1/if1/b6xCAFkd7ntBc3Didzn62tB_UdOFOerz9D-PWU8R5enBFGWdM_FyKA3GNNIdvKh-sxrmgn9k.jpg?size=200x0&quality=96&crop=0,0,512,512&ava=1"
+            },
+            {
+                "id": 157063256,
+                "name": "Tailwind CSS",
+                "screen_name": "tailwindcss",
+                "is_closed": 0,
+                "type": "group",
+                "photo_50": "https://sun1-18.userapi.com/s/v1/if1/NJCV-R3ljJA9kaWF5B33q0xeHtO_U_DWsELmFbDDztnTVDeBWsLvTvA6Q6v3-5OLBp4L98G4.jpg?size=50x0&quality=96&crop=90,99,833,833&ava=1",
+                "photo_100": "https://sun1-18.userapi.com/s/v1/if1/ZegDInxcPbgTj1A-zi97s0HxBLJ2jLnEkMujxfctXMc76cIbsP8cmgATR9TsX0To7FHd7gDA.jpg?size=100x0&quality=96&crop=90,99,833,833&ava=1",
+                "photo_200": "https://sun1-18.userapi.com/s/v1/if1/58-QSId8eao2FrMZwc9kRSrLk77fVd3EzprlTBLpbaNg6K6SRwCozk-8HeWlcqikoxPhIbLH.jpg?size=200x0&quality=96&crop=90,99,833,833&ava=1"
+            },
+            {
+                "id": 30666517,
+                "name": "\u0422\u0438\u043f\u0438\u0447\u043d\u044b\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442",
+                "screen_name": "tproger",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-90.userapi.com/s/v1/ig2/KfBiZ3NW2Jo5utYL4wFuz3VrAj3jHSUvP5Vpvf5WL870ziGnrwRxegSznDHBWSaDa0SiU54OMv3LupGf-lxEJrqZ.jpg?size=50x0&quality=96&crop=0,0,1024,1024&ava=1",
+                "photo_100": "https://sun1-90.userapi.com/s/v1/ig2/Rs0rm1SJkNMZSgioGN5exxiSxyRA07R4oqRDr7_BfNlx1M1M_i3DFTkDrKMm70ww8rn5_PKNdB_jkjDHNmUUQhFP.jpg?size=100x0&quality=96&crop=0,0,1024,1024&ava=1",
+                "photo_200": "https://sun1-90.userapi.com/s/v1/ig2/or_CcovSrKyw3rrXMxnWhrQMit83SOOmUjkvccOckUIEQwFZx-Ci-KCBw7rZW7ZBlY81f3lB6bc4LUtqp0bhFEKW.jpg?size=200x0&quality=96&crop=0,0,1024,1024&ava=1"
+            },
+            {
+                "id": 45745333,
+                "name": "4ch",
+                "screen_name": "4ch",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-21.userapi.com/s/v1/ig2/Vz-zWjbjDcWWOgTRhHI-6wFlI4xxO2DNfrac9qO2X0vYvzCK7vG2oTjqzeJOyHyz_uhqKN2IZLPms8Gr1x1erJQZ.jpg?size=50x0&quality=96&crop=432,106,345,345&ava=1",
+                "photo_100": "https://sun1-21.userapi.com/s/v1/ig2/vnuiZ0PIPVjm4sFSreZMzluc92zr5TMji3TKIT9uWD7QMM-h_7cxpD4mgS2EXO0FDa82LXv3BC_5wBuGXDup1ys0.jpg?size=100x0&quality=96&crop=432,106,345,345&ava=1",
+                "photo_200": "https://sun1-21.userapi.com/s/v1/ig2/MvJslAsTBq3n0pcXtWkBBhzvlymiCbGJ7baIiMD-XqgKlBvrhoGr4DKe7tO4OEv_Wr2S0kNzGaKF3EjVU0Qfklrd.jpg?size=200x0&quality=96&crop=432,106,345,345&ava=1"
+            },
+            {
+                "id": 195681969,
+                "name": "\u043c\u0441 \u0432\u0435\u0440\u0430 \u043a\u0440\u043e\u0442",
+                "screen_name": "mcverakrot",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-30.userapi.com/s/v1/ig1/Xl_dFnRpGJL8wrichTiKUtX2-oHv74wYkEdP-oY19-ACZvXgdKLQUIbg2PRtqNA1n6dwXTPf.jpg?size=50x0&quality=96&crop=71,239,679,679&ava=1",
+                "photo_100": "https://sun1-30.userapi.com/s/v1/ig1/pOIgyvuUonpjjG4kcb1ci51W-8rGiVz-Ws6P_LNM9ut9fqldyKyWs781OFdkdX-XjamaFSXW.jpg?size=100x0&quality=96&crop=71,239,679,679&ava=1",
+                "photo_200": "https://sun1-30.userapi.com/s/v1/ig1/DhQ3KcDULpUC0YBp1eoDjMqRmNZh6JwlEHWeMcU-aacC4HAa_WFECC1PElP9m4PvJ_8azTlR.jpg?size=200x0&quality=96&crop=71,239,679,679&ava=1"
+            },
+            {
+                "id": 200458020,
+                "name": "\u041a\u0440\u0435\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \"\u0428\u043a\u043e\u043b\u044b \u0432 \u041d\u0435\u043a\u0440\u0430\u0441\u043e\u0432\u043a\u0435\"",
+                "screen_name": "creative_v_nekrasovke",
+                "is_closed": 0,
+                "type": "group",
+                "photo_50": "https://sun1-93.userapi.com/s/v1/ig2/CtpjdZxomdiSMjfPepXsAG7prPRQ1ea5PGtnccUgLu91zbpdcu4PRr54dzs3enrRSNMYw_-WldiEryTyY2HFnBS6.jpg?size=50x0&quality=96&crop=347,16,648,648&ava=1",
+                "photo_100": "https://sun1-93.userapi.com/s/v1/ig2/OfLvpx_3h760-OH1Izd4Hjk54YgZUffphlixZJ_y1a0agJncLW8bcDEq002btK8gfBWlPo5VAZjfbHjqJuNmCRNA.jpg?size=100x0&quality=96&crop=347,16,648,648&ava=1",
+                "photo_200": "https://sun1-93.userapi.com/s/v1/ig2/I0efOONJEJd0NsGdCiPRhICEhiXwzViwpWH-Cmovca3HqRemmVblMpbtSBQEij9puWT34fbin59sn56RUtzPN9pL.jpg?size=200x0&quality=96&crop=347,16,648,648&ava=1"
+            },
+            {
+                "id": 123083697,
+                "name": "Glo Academy",
+                "screen_name": "glo_academy",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-92.userapi.com/s/v1/if1/0EdetU80mRCS9B0l696Iq3OK9KAqo3i84N7NciSxe-Krsrf86BR3RwIkQdWatKW0HC21QhBV.jpg?size=50x0&quality=96&crop=548,151,790,790&ava=1",
+                "photo_100": "https://sun1-92.userapi.com/s/v1/if1/G2KV8FN54cxSbfB6Pq8-51pn3RleR_7ocZc6DLbqGpXKvGrVX2acJU4GsRV4zrTm_BtIWfgV.jpg?size=100x0&quality=96&crop=548,151,790,790&ava=1",
+                "photo_200": "https://sun1-92.userapi.com/s/v1/if1/5Kv7_jE7wx4HaivpMm6fIZXpusykqPYqbN7AHJ27H06bUsB9DIBnotTm52laq6OiYiXUCKG2.jpg?size=200x0&quality=96&crop=548,151,790,790&ava=1"
+            },
+            {
+                "id": 95810781,
+                "name": "Vue.js",
+                "screen_name": "vuejs",
+                "is_closed": 0,
+                "type": "group",
+                "photo_50": "https://sun1-88.userapi.com/s/v1/if1/JJjcOuFO09w7kjvTs1UW4c9MbVlnkppqWUVxSiF3rzi-66fzonWQ1YeUSMeZOfCGZYfSqu-i.jpg?size=50x0&quality=96&crop=11,0,222,222&ava=1",
+                "photo_100": "https://sun1-88.userapi.com/s/v1/if1/r5ht1OODzn69plI0VbnLYLftX5N4Yxb4Hi7OWgDOynwsOcSuYaKVbw08qAaFeWKMcCqrosWk.jpg?size=100x0&quality=96&crop=11,0,222,222&ava=1",
+                "photo_200": "https://sun1-88.userapi.com/s/v1/if1/LZEF2vQ7WaC0LJyrF2dliHf8NRBPiAWIHY3wOPaU2er2k1mU4fAtxy6USBSdaxJ6wFvHw2E6.jpg?size=200x0&quality=96&crop=11,0,222,222&ava=1"
+            },
+            {
+                "id": 156480091,
+                "name": "FULL PLEASE",
+                "screen_name": "fullvls",
+                "is_closed": 1,
+                "type": "group",
+                "photo_50": "https://sun1-99.userapi.com/s/v1/ig1/e8rndPS65XZFibxnasPPHhSpxarmBP-0U6LghHBgF03zQ0vOS1gu4Ad9URcUtdw-unve5dL3.jpg?size=50x0&quality=96&crop=0,0,1765,1765&ava=1",
+                "photo_100": "https://sun1-99.userapi.com/s/v1/ig1/R9OEyGxP9BkYgQGL-c-qeqUa8CjhxSKbpi4bUorQJ3PHtcrlON1qkwGZku15Shqdt9vDzSqy.jpg?size=100x0&quality=96&crop=0,0,1765,1765&ava=1",
+                "photo_200": "https://sun1-99.userapi.com/s/v1/ig1/db5QVYtdcVjoE_VQtdZv3p__d9bFLsTkgi1OAfhi-_H6zYI2GO9-wOOABF7q5gDX0XfV5A6J.jpg?size=200x0&quality=96&crop=0,0,1765,1765&ava=1"
+            },
+            {
+                "id": 4968,
+                "name": "\u0421\u043e\u0442\u043e\u0447\u043a\u0430 \u043f\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u043c\u0443 | \u0415\u0413\u042d 2021 | \u0420\u0423\u0421\u0421\u041a\u0418\u0419 \u042f\u0417\u042b\u041a",
+                "screen_name": "sotochka_ege",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-28.userapi.com/s/v1/if1/9ls5NIjA2wghFG74q9vg5NENtgdH3MsdXx5UqDug9RxToJRwSRajxhwvjRZv5OM7_ZNOMlne.jpg?size=50x0&quality=96&crop=932,55,703,703&ava=1",
+                "photo_100": "https://sun1-28.userapi.com/s/v1/if1/g-MxT6-jdOAsjEeX77Q1Kx4qOnHOsNrX1nUfWHYuCi9dDAzdW7PhhobX9pT7GrqcPEbJqo3m.jpg?size=100x0&quality=96&crop=932,55,703,703&ava=1",
+                "photo_200": "https://sun1-28.userapi.com/s/v1/if1/EaA_zrsnUaOFZbyVP-0iwzqBvczz4U3O6RnbpsV-0IWJTYS6euEfwIX5v1N_0f19MrDBOMXC.jpg?size=200x0&quality=96&crop=932,55,703,703&ava=1"
+            },
+            {
+                "id": 137331920,
+                "name": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0430 \u0415\u0413\u042d 2021 | \u0423\u043c\u0441\u043a\u0443\u043b",
+                "screen_name": "umsch_i",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-18.userapi.com/s/v1/ig2/5LgyjadI3SwWDRFzgD5AtokLOy128bbQegaIIL4bSx4Qc5Ae4yjyQPLRG5DySH8JJ64oiZtRhr7nSB_F7ZveaeIZ.jpg?size=50x0&quality=96&crop=0,0,1594,1594&ava=1",
+                "photo_100": "https://sun1-18.userapi.com/s/v1/ig2/A1OcidbutUey1Pf1BxBz7e0AnHuPCEMR8EAe0dhH3jY29vKd7Z9uDXA-k_WGvmDyMmDdXKxCeWxmOl8glvppARwi.jpg?size=100x0&quality=96&crop=0,0,1594,1594&ava=1",
+                "photo_200": "https://sun1-18.userapi.com/s/v1/ig2/pkZbcYKO_Yv_NrtKJkUg_Na2YFceqgE601oNNXxRWRzM52wQ5oRaALt1LnvAo5Ak6oTzIv5z0GaJrzVGz9Hr6zhM.jpg?size=200x0&quality=96&crop=0,0,1594,1594&ava=1"
+            },
+            {
+                "id": 113958919,
+                "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 / itProger",
+                "screen_name": "prog_life",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-47.userapi.com/s/v1/if1/iQP49RGyuT1n1ZlO3_MBOLwaBrDA5yhPTX4DFJ4uCfxF5SiJ1yaWARSpWlsX57cUOCYNPpHd.jpg?size=50x0&quality=96&crop=0,0,512,512&ava=1",
+                "photo_100": "https://sun1-47.userapi.com/s/v1/if1/2VuX1u4PBTi6-bAn2C-0nufysVLQrKMgGWKCCj0m_3Tx07YrX6d9eTXqGBIJICNG6_GXnc8R.jpg?size=100x0&quality=96&crop=0,0,512,512&ava=1",
+                "photo_200": "https://sun1-47.userapi.com/s/v1/if1/9-CAKyasFh2JF3Ybax8hFuoqmHP4_V67p6ExjWGd6AgsrgZCYG7Clor5UXDQyI305ZK3K80z.jpg?size=200x0&quality=96&crop=0,0,512,512&ava=1"
+            },
+            {
+                "id": 101573653,
+                "name": "Opegit Studio",
+                "screen_name": "opegitstudio",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-20.userapi.com/s/v1/if1/pLG40hsSgRp9h1P2TnWqBKe-wYGsYxjViIHy2EK_PhWPLc3XxRyPXs8WAlpGoX5np1fRwoDL.jpg?size=50x0&quality=96&crop=185,153,922,922&ava=1",
+                "photo_100": "https://sun1-20.userapi.com/s/v1/if1/K3dKXntb-osHIOgjpv-MVoHKnEo9Gvmi6QOZWs6R59qgPmJsnn5LFW8LaBsWhuU3CDI-6dHy.jpg?size=100x0&quality=96&crop=185,153,922,922&ava=1",
+                "photo_200": "https://sun1-20.userapi.com/s/v1/if1/L71tCcp3oC28BpciWZb3_TXg5JkjWncsUYUbqpMNkCmyB6buq2NvJ3LB3ld9HEJ0abdxlC9x.jpg?size=200x0&quality=96&crop=185,153,922,922&ava=1"
+            },
+            {
+                "id": 44024245,
+                "name": "\u041f\u043e\u0441\u0442\u0443\u043f\u0438 \u0432 \u041c\u0410\u0418",
+                "screen_name": "postupi_v_mai",
+                "is_closed": 0,
+                "type": "group",
+                "photo_50": "https://sun1-14.userapi.com/s/v1/if2/fwVULE4qXuFZJQnKc7iJD9UIqF4HfFURouFK6qu2Py2SHxRNcKHBqKgkGcldeNw3t6HNAsuEH4snKqtQrgQwRLSe.jpg?size=50x0&quality=96&crop=10,10,1059,1059&ava=1",
+                "photo_100": "https://sun1-14.userapi.com/s/v1/if2/kVyHSgPnFcIomUM_pcJQyNFW_ZkKLxeaxnh12-Cg6SfW26Xwdl2HAGVVDy0rqOr2xgCSz26SU9dGvjY6MgClgpRF.jpg?size=100x0&quality=96&crop=10,10,1059,1059&ava=1",
+                "photo_200": "https://sun1-14.userapi.com/s/v1/if2/B9uGZfB4wRMimcSJN-_2h31fD71EuqM41xoeXljlm69MA-OZhlOtLiT1wmV-x3L5AEH9zlZ3-0RbOHGa4_fYZaZ4.jpg?size=200x0&quality=96&crop=10,10,1059,1059&ava=1"
+            },
+            {
+                "id": 159224823,
+                "name": "CODE BLOG",
+                "screen_name": "codeblog",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-25.userapi.com/s/v1/if1/SG09ewu1mzXnewnKHZg8632vKllKpHK3ThAHLneyNqpKBhPb42ok1_fEdbS9SdhJuh-S7muD.jpg?size=50x0&quality=96&crop=41,55,993,993&ava=1",
+                "photo_100": "https://sun1-25.userapi.com/s/v1/if1/vUbFv8gpRTnw7sHrPtwPkbAljVdZ5h6DmrMmXLczmoDOb63I6q38sV4wjA6MG2R4SA_gUIDe.jpg?size=100x0&quality=96&crop=41,55,993,993&ava=1",
+                "photo_200": "https://sun1-25.userapi.com/s/v1/if1/WxrU5qeGLsM43kVxWIHZzL4TFWQS4aBOP67BW9F0TGpahNvcgG0au09dH10hKEdNfylwIQjS.jpg?size=200x0&quality=96&crop=41,55,993,993&ava=1"
+            },
+            {
+                "id": 69108280,
+                "name": "Python/Django | Pirsipy",
+                "screen_name": "pirsipy",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-17.userapi.com/s/v1/if1/i91m-C7SDeZUHEwLC8oYNaJT1AV75GiXQ_--ptq9-cqAYb75oxt_ewnvyMFqnZXc5hvaINMa.jpg?size=50x0&quality=96&crop=94,94,561,561&ava=1",
+                "photo_100": "https://sun1-17.userapi.com/s/v1/if1/7y4mjH9faHEInkJulimUV1na92RmgVLn9uKMOYWpdJSEk_TVmCte89jw4Qx5rNvATqM8KhN4.jpg?size=100x0&quality=96&crop=94,94,561,561&ava=1",
+                "photo_200": "https://sun1-17.userapi.com/s/v1/if1/U2kM7fXkb4pCfhe8DfnNEWSsUyu8jltk4ENdQE8qUQvN_rcmnQb8dRt0NEOMWqNIBJNZtdcR.jpg?size=200x0&quality=96&crop=94,94,561,561&ava=1"
+            },
+            {
+                "id": 195634750,
+                "name": "\u0416\u0443\u0440\u043a\u0438\u043d",
+                "screen_name": "zhurkinch",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-99.userapi.com/s/v1/ig2/fFpanorJJnRvnaa9aDJqVclTyD_QxCCqBE_Esed1zMd-4PQ77nZyPAMwDk2Hkm3Cqj8-ExYjWnDEsntWXDJTpGnX.jpg?size=50x0&quality=96&crop=0,0,1000,1000&ava=1",
+                "photo_100": "https://sun1-99.userapi.com/s/v1/ig2/Xwo4Z0-E8jzKQPBzg-jNgsGsYmRAldhFNvyDJhxgLEDr_BY-b5y4VBUkrsS3NmmVOxynnt5QuBIIAAVDo-gRjihW.jpg?size=100x0&quality=96&crop=0,0,1000,1000&ava=1",
+                "photo_200": "https://sun1-99.userapi.com/s/v1/ig2/bWhGW8RC238vwYTLZLXzMiiIYaIkklJQBALJ-EswXnuJqL0NMhwGWdK04adL31hxYG47BjY-TUESn6WliNtzoB_B.jpg?size=200x0&quality=96&crop=0,0,1000,1000&ava=1"
+            },
+            {
+                "id": 21826797,
+                "name": "C \u039b \u00d8 C K W O R K",
+                "screen_name": "clock_work_msk",
+                "is_closed": 0,
+                "type": "group",
+                "photo_50": "https://sun1-16.userapi.com/s/v1/if1/Q2o2ja3mGv22bK9Gay_p-cnDtURiBIOOsynq23ub2KUAcErFezX7_RID6BIRzjzJ1Knq0jNP.jpg?size=50x0&quality=96&crop=13,63,382,382&ava=1",
+                "photo_100": "https://sun1-16.userapi.com/s/v1/if1/HpOT59mQqps7Iu6TdR7HCgr5vgOTPBxojcz4dzXvmNhM-swo3Wc9Rvgr_ElS_RSrxXvvHRwU.jpg?size=100x0&quality=96&crop=13,63,382,382&ava=1",
+                "photo_200": "https://sun1-16.userapi.com/s/v1/if1/o5GNn9ZEi-zafLShugdAwmDiQ-u_yzTmQci9m_2k3bNVWLT2DDmtZifKqSE9pNhcXcf6hQrk.jpg?size=200x0&quality=96&crop=13,63,382,382&ava=1"
+            },
+            {
+                "id": 38306835,
+                "name": "HTML Academy",
+                "screen_name": "htmlacademy",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-18.userapi.com/s/v1/ig2/r3EqxCc3EhtmrUw1YyzanKVKoTZo0fwp1HjWCJjLB1ut8SUxdoA461YZqpm62uMtdszMzydzv5Ek-FbkYDTsmpMI.jpg?size=50x0&quality=96&crop=0,0,400,400&ava=1",
+                "photo_100": "https://sun1-18.userapi.com/s/v1/ig2/KlELI0bzsDsOBEJqLKxuS6qsRPJT50JmAIvNB4lxMGu6htjVREbSprxKSCJmOoYMVwi1gwgaX6WDDjjfS8QMIOwQ.jpg?size=100x0&quality=96&crop=0,0,400,400&ava=1",
+                "photo_200": "https://sun1-18.userapi.com/s/v1/ig2/vpRSQg4GNpgRED9XtkYfW8Pqjj5DYwyF8tVcBw43cwmppfB8CwAFtTGzE-pzDZob5r-V55xxiPJ2bC07wRtnD4B0.jpg?size=200x0&quality=96&crop=0,0,400,400&ava=1"
+            },
+            {
+                "id": 74984782,
+                "name": "Love Frontend",
+                "screen_name": "love_frontend",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-88.userapi.com/s/v1/if1/UEtO7bfue_EcrbjQHaK2GuWLYIUDJJsKFEDGHpj16qjUcTvjaLjJnQv77uIsw7Kgx7iwjeSO.jpg?size=50x0&quality=96&crop=0,0,500,500&ava=1",
+                "photo_100": "https://sun1-88.userapi.com/s/v1/if1/Injx0PbK7KnqluFYmLfArS3OGMg-eHkXzHO5in_yilLPVIS_RfhRwcSXRsPsO-A0c_6VGbpw.jpg?size=100x0&quality=96&crop=0,0,500,500&ava=1",
+                "photo_200": "https://sun1-88.userapi.com/s/v1/if1/7w-8hJejloXy-leLfhrFUU-OAZLrTb-anAiquh9ErTVLNhM0LiOPX0yhC0iXJdF723iD_Txi.jpg?size=200x0&quality=96&crop=0,0,500,500&ava=1"
+            },
+            {
+                "id": 64524646,
+                "name": "Python Programming",
+                "screen_name": "python_programming",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-89.userapi.com/s/v1/if1/3F6YD0gqxKvxfF8xKyi8EHxuybCb9DqAkAZh2SeQETIqPlKoGQBYglxwp4KnS6XYjHk8llBk.jpg?size=50x0&quality=96&crop=631,102,820,820&ava=1",
+                "photo_100": "https://sun1-89.userapi.com/s/v1/if1/sCcNwNKXiZccGo1cUlMZWMgnTr2m0fgZV1B_RGEHhzws2TDVz2lMIDG8x_pNstm5C3ZaC3po.jpg?size=100x0&quality=96&crop=631,102,820,820&ava=1",
+                "photo_200": "https://sun1-89.userapi.com/s/v1/if1/xgjRQkq514ksKtnLrcpBdw2jcVkXGfvdkfEwPu4Zg-ufGw9w4fjfg3kZINMGz76RabsaKnp7.jpg?size=200x0&quality=96&crop=631,102,820,820&ava=1"
+            },
+            {
+                "id": 186804239,
+                "name": "\u2735\u041f\u043e\u0434\u0432\u0430\u043b \u041d\u0438\u043a\u0438\u0442\u044b \u0438 \u0412\u0430\u0434\u0438\u043c\u0430\u2735",
+                "screen_name": "nikitosiquez228",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-90.userapi.com/s/v1/if1/YdCRdCU1PYi4RR8pLzxkxDFtEWWK3HAX3Qg2t6Ge6DlagR9HCtmfAOcro9C8w8dZbzTbgR-d.jpg?size=50x0&quality=96&crop=0,170,960,960&ava=1",
+                "photo_100": "https://sun1-90.userapi.com/s/v1/if1/JK71GgukcBE28qtFBpyksbtPWkNslm6JblqP-Vfn-04ukfh3Q6Ro63yODQ4rpQ6LpmaWImTh.jpg?size=100x0&quality=96&crop=0,170,960,960&ava=1",
+                "photo_200": "https://sun1-90.userapi.com/s/v1/if1/ZfsEZLLrlA3AylU0plHEyRx4Rlv1tWBJxB89Untn5vrHLQqccekMtsg5pbCl3qZJNLhVgx7o.jpg?size=200x0&quality=96&crop=0,170,960,960&ava=1"
+            },
+            {
+                "id": 57404545,
+                "name": "S7 Airlines",
+                "screen_name": "s7airlines",
+                "is_closed": 0,
+                "type": "group",
+                "photo_50": "https://sun1-19.userapi.com/s/v1/if1/duf0qamsxXmfNrhng42Wehe3XurPXf3uDPAuAikSWIA-pqhcuh9DyXel7B3Pn2qqIZc2w0Sz.jpg?size=50x0&quality=96&crop=20,20,472,472&ava=1",
+                "photo_100": "https://sun1-19.userapi.com/s/v1/if1/TIECxzQWFIa2gBOsgEiuKS_ArOD4G9CfNiUUpXO82h7S-nLEGOYco8RtFFkoVWnrMX4ptdpU.jpg?size=100x0&quality=96&crop=20,20,472,472&ava=1",
+                "photo_200": "https://sun1-19.userapi.com/s/v1/if1/iZNyoan4j6-eC5-7r7dkQGLRw3OnbSO75gqjprg8_DLQYsJjqO-bE9GrpNB4LMQJKPW5lAO9.jpg?size=200x0&quality=96&crop=20,20,472,472&ava=1"
+            },
+            {
+                "id": 197813742,
+                "name": "\u0418\u043d\u0444'\u0411\u0423 2021",
+                "screen_name": "club197813742",
+                "is_closed": 1,
+                "type": "group",
+                "photo_50": "https://sun1-24.userapi.com/s/v1/ig2/qP9EGpHdv6JQoJINJcBBc9qvfFqR1Y5PoEHIJPQbQ25wCUpBhTHLemqBTEBTFWVkYuXppWXul9vMrhI7EC8V0Vf3.jpg?size=50x0&quality=96&crop=36,36,1035,1035&ava=1",
+                "photo_100": "https://sun1-24.userapi.com/s/v1/ig2/ehEFmYURq9VQD8BCmVIvE6tJV67Oo-HxG3lfbNO896rhrSLL1WBf00Eb45U_XenWM6SdAtDW93aYfJX-N4ggWpWq.jpg?size=100x0&quality=96&crop=36,36,1035,1035&ava=1",
+                "photo_200": "https://sun1-24.userapi.com/s/v1/ig2/-cN8w5eP0O_05fdW_M2iL-0pnlrN0E98rL3NNUgds3bvBiCOJYvPYiHx0lbrrNVxZxi65gnfdgC1c4qfE8LrvUNO.jpg?size=200x0&quality=96&crop=36,36,1035,1035&ava=1"
+            },
+            {
+                "id": 16647180,
+                "name": "adidas Originals",
+                "screen_name": "originals",
+                "is_closed": 0,
+                "type": "group",
+                "photo_50": "https://sun1-95.userapi.com/s/v1/ig2/NEbygwl81a0ERwV_f6iJEsXRhyrqtd99fyCEl-YSdQjH9SRqfQFoERPy2OLbu6d6iEP6I3jklAbTrxEBYSsyzjO0.jpg?size=50x0&quality=96&crop=0,0,2048,2048&ava=1",
+                "photo_100": "https://sun1-95.userapi.com/s/v1/ig2/9K7ZI-TlOE0dv8S8s-4yltV0V0A-UNyjMtMmL2TMjx84GnSvKKLcORISzgNFjxbgfWCUCXadBNOVnzTM2j7EfsbF.jpg?size=100x0&quality=96&crop=0,0,2048,2048&ava=1",
+                "photo_200": "https://sun1-95.userapi.com/s/v1/ig2/E7QIqzBlAjfVHZeFTgICNpGY4-AJRbDbddUfau6HR5weyaJCzXkym31Qz_TNv4ldRLpqoXuu0nj1fimSRnVP8LC1.jpg?size=200x0&quality=96&crop=0,0,2048,2048&ava=1"
+            },
+            {
+                "id": 122088089,
+                "name": "HARD PLAY TEAM",
+                "screen_name": "hp_legion",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-92.userapi.com/s/v1/ig2/gxxf0kT7GB68c10Dus3xcJX3Q5hUTmpaWx694Aov5FoBnk5Ty5fDcvopW1coOZ_F4qyxIAsnIWy-7J7xNnhNm9QD.jpg?size=50x0&quality=96&crop=179,0,202,202&ava=1",
+                "photo_100": "https://sun1-92.userapi.com/s/v1/ig2/7uGYpvRudbFqf5v2BQ3urpVmZPJaOHcI8lEq1Sb5Dmc_Cp_33AysAdnx_Kx8UVKlVW17dYHLUWIeCKWKqzgv0AgP.jpg?size=100x0&quality=96&crop=179,0,202,202&ava=1",
+                "photo_200": "https://sun1-92.userapi.com/s/v1/ig2/v9YslITRqjz_-lDA_y4AVMqm1QcrkgaY5iBN6Twapf-YOk1d12IiLc5kzq1O3bO0QhOhwxc5q0MQKTOo56WCtuFd.jpg?size=200x0&quality=96&crop=179,0,202,202&ava=1"
+            },
+            {
+                "id": 165421583,
+                "name": "IT-Kamasutra.COM",
+                "screen_name": "itkamasutra",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-98.userapi.com/s/v1/if1/QyLTAiZOr4h0LxsrTnD3KyUyZUn7AgTOa0ziimL8nxz7Pdmyf9WQr1mYPaEFKcX-OlvBzO9e.jpg?size=50x0&quality=96&crop=447,291,859,859&ava=1",
+                "photo_100": "https://sun1-98.userapi.com/s/v1/if1/GIz3j5_ObUWCX5vKtrCmdjkHcRg6jVkZdoggXVbeIJuiKS1Rnt8x3As-sPajpo-Zkv1s1u-Q.jpg?size=100x0&quality=96&crop=447,291,859,859&ava=1",
+                "photo_200": "https://sun1-98.userapi.com/s/v1/if1/r1STv4V6qHESjcbTkqKYwQhIHT5ceK7zSjLRO9lO_J7M1K1-a-liyB-INxnwgQ4hLdz9GBOr.jpg?size=200x0&quality=96&crop=447,291,859,859&ava=1"
+            },
+            {
+                "id": 85475015,
+                "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u0443\u0435\u043c",
+                "screen_name": "let_us_code",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-83.userapi.com/s/v1/if1/ZSK49-InLsnq3Xdl9lH1ZF4IU_3juMSc8Dcj63_GpudQdWkR8FsqbAIwXeVb_5FpnNZUWBsY.jpg?size=50x0&quality=96&crop=0,22,212,212&ava=1",
+                "photo_100": "https://sun1-83.userapi.com/s/v1/if1/V8uxnbG7MMtk0dCQZPUn65gmEHznyV5GgtHL34McvZIDxxQB_2_SyIUczG2Ls8K2LPajwrrC.jpg?size=100x0&quality=96&crop=0,22,212,212&ava=1",
+                "photo_200": "https://sun1-83.userapi.com/s/v1/if1/TJJb1DwbqI0hItVvysf1u1b8Z_hA688iIsRqAimoHct_YShKtaRSpnjFjytIGTeNyfdHCapE.jpg?size=200x0&quality=96&crop=0,22,212,212&ava=1"
+            },
+            {
+                "id": 196734717,
+                "name": "Senior Frontend - javascript, html, css",
+                "screen_name": "senior_frontend",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-17.userapi.com/s/v1/ig2/ha7Ciq1jqGiSAcaxIoba6u1FMWTiGns0pVyeG3rSFlgIAyw9C0kuQtnJs0omYqvHCIVMZnhJQwZkR41qbLBWVUBH.jpg?size=50x0&quality=96&crop=0,0,640,640&ava=1",
+                "photo_100": "https://sun1-17.userapi.com/s/v1/ig2/hHazbfBz0pGUmYMhhjqnDjYWWt3BcYGPRvKMUtMgHMe3nTm6Avhn3QsFbPOU_f79rR3ul5jmnKLlqHga_PlOUFl1.jpg?size=100x0&quality=96&crop=0,0,640,640&ava=1",
+                "photo_200": "https://sun1-17.userapi.com/s/v1/ig2/40WrKAkSQxXTPDaceHgXqIDrbSkBR3EUgpxTlxg1OxoelSwmFw2iMpkvBFvSTNFXj0VezVtuZuQ4nxQf3YmyVzux.jpg?size=200x0&quality=96&crop=0,0,640,640&ava=1"
+            },
+            {
+                "id": 26006257,
+                "name": "PlayStation \u0420\u043e\u0441\u0441\u0438\u044f",
+                "screen_name": "playstationru",
+                "is_closed": 0,
+                "type": "group",
+                "photo_50": "https://sun1-27.userapi.com/s/v1/ig1/pL92V-cDO27BEHnzs6SrCE694NWa0-oRBXAAllezD3sFMLxUO9ztTH8u8HwVNdATyi6xKS2W.jpg?size=50x0&quality=96&crop=0,0,1080,1080&ava=1",
+                "photo_100": "https://sun1-27.userapi.com/s/v1/ig1/MdxIWRh9zlg85P40os1cibBWCLW86KnBwTJHm0qtw88lZR0yStwfeXjJBNXMVkUDdeZJEksH.jpg?size=100x0&quality=96&crop=0,0,1080,1080&ava=1",
+                "photo_200": "https://sun1-27.userapi.com/s/v1/ig1/IY-T25DtxsMR6Sksi_AFzpTLcmQJkbvESfFfTI_tCFg1ayz6GPtryPjUr1re1APpms1MMXdi.jpg?size=200x0&quality=96&crop=0,0,1080,1080&ava=1"
+            },
+            {
+                "id": 76525381,
+                "name": "\u0423\u044e\u0442\u043d\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442\u043e\u0432",
+                "screen_name": "iteapro",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-92.userapi.com/s/v1/if1/tjqSYjAGLck5YuVfN5EI5tRb2BcbatbQoDOSpHdNXVaJDdQz_ef7-ET71bAfy7Y378vO4CZE.jpg?size=50x0&quality=96&crop=324,108,1556,1556&ava=1",
+                "photo_100": "https://sun1-92.userapi.com/s/v1/if1/et1xESP_iyN6qSiyn-ia1UMFtv6mt9xlpMn-7xv4X_Veg9lcKfe9P_me2YME6BDYLBR6Yc5F.jpg?size=100x0&quality=96&crop=324,108,1556,1556&ava=1",
+                "photo_200": "https://sun1-92.userapi.com/s/v1/if1/wr2DYUNPzL1omZ7gFvUJXlRep7afzr1walRZVeJeWsaQuh9da1fv14gdOx1KeD3aWw9Iukek.jpg?size=200x0&quality=96&crop=324,108,1556,1556&ava=1"
+            },
+            {
+                "id": 55072656,
+                "name": "LITTLE BIG",
+                "screen_name": "littlebigband",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-97.userapi.com/s/v1/if1/TeblBOfTRPdMTcr0nBiqRr7Bv7OYwv1qQbdgd-R2fvZyFCA1F9BAWTby53ePvqKP44SZhal0.jpg?size=50x0&quality=96&crop=77,84,449,449&ava=1",
+                "photo_100": "https://sun1-97.userapi.com/s/v1/if1/ckmXaHxOw8oNgaASesQE3ClcpVEliyARahzLPw1qtisvG76C_ITskmgW3l242kAHJrH627yz.jpg?size=100x0&quality=96&crop=77,84,449,449&ava=1",
+                "photo_200": "https://sun1-97.userapi.com/s/v1/if1/-uNJugpWPgN8x6mRrICdCVAUk88KgnXBsvaKKavfwJmrvwEzfSu1mLoXugBBtv3oz0xXGRP6.jpg?size=200x0&quality=96&crop=77,84,449,449&ava=1"
+            },
+            {
+                "id": 150898508,
+                "name": "Dr.Martens Russia",
+                "screen_name": "dr.martens_russia",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-90.userapi.com/s/v1/if1/31XPL_uN5ZHspO5PSvFSWPf0Ai_nScYGDszBKM1fQVWQmS_-kt0hWSoMppracogloVEMD7nn.jpg?size=50x0&quality=96&crop=0,0,800,800&ava=1",
+                "photo_100": "https://sun1-90.userapi.com/s/v1/if1/Qxs2Zc7FaRBxAnMOEmez_Q_dXK6k83vAh6dQmUdlGD5Hop6GHqdv0MiUnD9zHJ3dEr4Igvte.jpg?size=100x0&quality=96&crop=0,0,800,800&ava=1",
+                "photo_200": "https://sun1-90.userapi.com/s/v1/if1/gnclmpaJY0p93odHZhFcmbofZTup9TDe-xTZVP6ZDbG0nK2Bf24jn7Gi3EcORjfZTtLSh6l6.jpg?size=200x0&quality=96&crop=0,0,800,800&ava=1"
+            },
+            {
+                "id": 157369801,
+                "name": "\u0421\u0431\u0435\u0440\u041a\u043e\u0442",
+                "screen_name": "sberkot",
+                "is_closed": 0,
+                "type": "group",
+                "photo_50": "https://sun1-97.userapi.com/s/v1/ig2/P8g1_Mb_nlSA0jziiix585cGNZPy6NPW6IW2njW_50U69fVUMctl3Nv_W3bKdYYE4W5pcmh7SYVwObAI2P_LYwwF.jpg?size=50x0&quality=96&crop=30,30,1960,1960&ava=1",
+                "photo_100": "https://sun1-97.userapi.com/s/v1/ig2/ysLYS7TbGIPpUyC92c-TwbzpElgR0UHqqTaSq83GispFtfx_sM-oCGkUletYnrlLWemCFp2uttnifoxlFfGzx-pB.jpg?size=100x0&quality=96&crop=30,30,1960,1960&ava=1",
+                "photo_200": "https://sun1-97.userapi.com/s/v1/ig2/0sKEgfJQODYXefRXFMWVr5UxIImFu-FSaaJLCVxjAB1ycatkDLaMBXtNyyfl9_PkNLrppbOrEwjqeGPZ3pzKegvE.jpg?size=200x0&quality=96&crop=30,30,1960,1960&ava=1"
+            },
+            {
+                "id": 23977452,
+                "name": "HYPERPC",
+                "screen_name": "hyperpc",
+                "is_closed": 0,
+                "type": "group",
+                "photo_50": "https://sun1-30.userapi.com/s/v1/if2/ML8AqDUlNP-VRLESXxbnjMoURvM8xZyq49em5wnGQX7CgiH68_T_m8s_XqDTjvWJdiLrbFIh9H1JeDqpo-OCLJYi.jpg?size=50x0&quality=96&crop=0,0,500,500&ava=1",
+                "photo_100": "https://sun1-30.userapi.com/s/v1/if2/fPVgAkS_THbBhRHsAigSGV56KSXL18jo4fjOrizLDE1JgF6ROo2MyyERrSDeEbQ2p8t4hAarsjYHBckvZkPUVY2l.jpg?size=100x0&quality=96&crop=0,0,500,500&ava=1",
+                "photo_200": "https://sun1-30.userapi.com/s/v1/if2/bCioNhKcwyG3bwTVChUxj9A_wPLFahIYLfC75mWwpTb9NIHgy166hTqTmCR0wAwcT_pc3VPFu9ElHFTmv5qOwzp5.jpg?size=200x0&quality=96&crop=0,0,500,500&ava=1"
+            },
+            {
+                "id": 137367893,
+                "name": "HIGHLIGHTS | \u0448\u043a\u043e\u043b\u0430 \u0432\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d\u0430",
+                "screen_name": "web_and_graph",
+                "is_closed": 0,
+                "type": "group",
+                "photo_50": "https://sun1-21.userapi.com/s/v1/if1/UQUb8mOQbY1JUabC90VYJuQhKbSeuKPwTGsEc1YWvl5cXx5llbb-B7oIvbVfe503MURf0IGj.jpg?size=50x0&quality=96&crop=0,0,500,500&ava=1",
+                "photo_100": "https://sun1-21.userapi.com/s/v1/if1/LQC9Cps3rg-9PUKDailjUFw6vj0alETcfG0G0UkEUH47acYLAcQLGbnV6fD4Jwsia4W-omBc.jpg?size=100x0&quality=96&crop=0,0,500,500&ava=1",
+                "photo_200": "https://sun1-21.userapi.com/s/v1/if1/JHhJ5O-PD1csYhMoF9Jh61x66y6_3guRUMldHkudhpcTQpPXIPYHhMkRvKRIOPrwfuunbekt.jpg?size=200x0&quality=96&crop=0,0,500,500&ava=1"
+            },
+            {
+                "id": 153073048,
+                "name": "SPK English",
+                "screen_name": "spkenglish",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-97.userapi.com/s/v1/if1/WV3qhMLFBBodD5Z1zMX2YUVwbINA1Cs1X0vOEaVQEZZ3Dd7WA6fu0vhhwPOSFf85mZWOcZS1.jpg?size=50x0&quality=96&crop=0,0,1417,1417&ava=1",
+                "photo_100": "https://sun1-97.userapi.com/s/v1/if1/xaSrNjQJoeUdm8_eYL3QkQs4bIoi-8xebetUkKZyjAZaCBmDcOUehDq11zCIL-U5z7D0zzit.jpg?size=100x0&quality=96&crop=0,0,1417,1417&ava=1",
+                "photo_200": "https://sun1-97.userapi.com/s/v1/if1/XTaoel4kJGB22Iha68zL57Ztj93MVSqLrwEisSr4abFsTd3gl0pPh8FtBzhmwPc1nPve2AMB.jpg?size=200x0&quality=96&crop=0,0,1417,1417&ava=1"
+            },
+            {
+                "id": 13643401,
+                "name": "adidas",
+                "screen_name": "adidas",
+                "is_closed": 0,
+                "type": "group",
+                "photo_50": "https://sun1-22.userapi.com/s/v1/ig2/dsSXyA9wh5_TQ0nSdBVLFGrksyNIYXwriOpQisGuM9UeTaz7SEQ3tQWoPHTHk73X_mX2NXRkunCliQ3RJQ5tyid5.jpg?size=50x0&quality=96&crop=139,164,681,681&ava=1",
+                "photo_100": "https://sun1-22.userapi.com/s/v1/ig2/-8dkDwKY5EKgfaNbebr3J5Vd_5cdI22Dwpevt6aApNPp1xnesylXjE8qeoLjmdTVbWOomkqPoLV4KX3LAL7j1trM.jpg?size=100x0&quality=96&crop=139,164,681,681&ava=1",
+                "photo_200": "https://sun1-22.userapi.com/s/v1/ig2/X93EDuEz5dvJKl66qh4mnRBue-u9X5t2-Wjtc8ok51y9EUPNuQfTJ2Bd0pS0FVrKNbm5lU3gO5bZPj1xhqygVlMi.jpg?size=200x0&quality=96&crop=139,164,681,681&ava=1"
+            },
+            {
+                "id": 84380264,
+                "name": "\u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d\u0435\u0440 | \u0412\u0435\u0431\u0434\u0438\u0437\u0430\u0439\u043d\u0435\u0440",
+                "screen_name": "beautifulpage_ru",
+                "is_closed": 0,
+                "type": "page",
+                "photo_50": "https://sun1-19.userapi.com/s/v1/if1/hnqMmROlWV8PUhdQZmWccw5FGMj0FgjvpxFr2SYUmMikdSqanHq5IfqRmv48DKkpokKmJIXI.jpg?size=50x0&quality=96&crop=0,0,1000,1000&ava=1",
+                "photo_100": "https://sun1-19.userapi.com/s/v1/if1/6R8c7Wn3BAQEMZuKTUygpTrtPcXGDngo4kK54vPCXUKDSAWRyvsddu5JA7emvh7bVXXsHgZ6.jpg?size=100x0&quality=96&crop=0,0,1000,1000&ava=1",
+                "photo_200": "https://sun1-19.userapi.com/s/v1/if1/4yJd8Zh7BEHPec9qW1UeiG1JTAsBd0gH7YGCqXyTRWo3qBDwLesmzramVyblTM7w5frTSGnA.jpg?size=200x0&quality=96&crop=0,0,1000,1000&ava=1"
+            },
+            {
+                "id": 143025713,
+                "name": "\u0421\u0442\u0438\u043a\u0435\u0440\u044b \u043a\u043e\u0440\u043e\u043d\u0430\u0432\u0438\u0440\u0443\u0441 | Covid-2019",
+                "screen_name": "club143025713",
+                "is_closed": 0,
+                "type": "page",
+                "deactivated": "banned",
+                "photo_50": "https://vk.com/images/deactivated_50.png",
+                "photo_100": "https://vk.com/images/deactivated_100.png",
+                "photo_200": "https://vk.com/images/deactivated_200.png"
+            },
+            {
+                "id": 188559933,
+                "name": "\u0445 \u0411\u044b\u0432\u0430\u043b\u044b\u0435 \u0445",
+                "screen_name": "club188559933",
+                "is_closed": 0,
+                "type": "group",
+                "photo_50": "https://sun1-92.userapi.com/s/v1/ig2/mJ3NMS4KCQ57Gj4pJ3k-Ftm3QLlnkqrLzRQgEcRpKqdPk51AKLEoobFyIwsPGHJHuhSIzGgzEdtMKFT-e5mSbkTr.jpg?size=50x0&quality=96&crop=0,0,724,724&ava=1",
+                "photo_100": "https://sun1-92.userapi.com/s/v1/ig2/s0t1_UjYEztScUoWJK1TkWoBKoqaIgO98oNp4GTvG2v5gIU07QcwWrvat_F1MdnqXucTFRcw0Z7nQvteBulHD9QF.jpg?size=100x0&quality=96&crop=0,0,724,724&ava=1",
+                "photo_200": "https://sun1-92.userapi.com/s/v1/ig2/Zoiil4caKiGpNmMNzjJkV_5WX4tZMKExfH3uoD7HU77KWX1KobLc6_XhlHu-D3jMbCadiFM4LaQfi4G3H8o_SL5Z.jpg?size=200x0&quality=96&crop=0,0,724,724&ava=1"
+            },
+            {
+                "id": 135329999,
+                "name": "Under Armour \u0420\u043e\u0441\u0441\u0438\u044f",
+                "screen_name": "underarmourru",
+                "is_closed": 0,
+                "type": "group",
+                "photo_50": "https://sun1-25.userapi.com/s/v1/if1/3xg74i7dydZ9sRbusGHlH3shSp8I1c1zG1PJe0D0tWjKv90Y_VrgtoccZhCET22e4EoYP4GQ.jpg?size=50x0&quality=96&crop=4,0,1116,1116&ava=1",
+                "photo_100": "https://sun1-25.userapi.com/s/v1/if1/BOzmdXqLzmfS85uJNvVwGf9luCXcUvrQ4RZL2pEeh6JHpFGDaaBb20BxI0CPitl0TnW8o-Lf.jpg?size=100x0&quality=96&crop=4,0,1116,1116&ava=1",
+                "photo_200": "https://sun1-25.userapi.com/s/v1/if1/2_xf4uUwanQVuwErLl_5lFVtq-_YJX8wss8Ytb2mxBiWZ0DXo4lqvsju5tmnzxiBRSpMmvP5.jpg?size=200x0&quality=96&crop=4,0,1116,1116&ava=1"
+            }
+        ]
+    }
+}
