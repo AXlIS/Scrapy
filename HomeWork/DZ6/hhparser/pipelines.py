@@ -7,7 +7,6 @@
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 from pymongo import MongoClient
-from pprint import pprint
 
 
 class HhparserPipeline:
@@ -17,20 +16,14 @@ class HhparserPipeline:
 
     def process_item(self, item, spider):
         collection = self.db[spider.name]
-        if spider.name == 'hhru':
-            ready_salary = self.create_hh_salary(item["salary"])
-            del item["salary"]
-            item['min_salary'] = ready_salary['min']
-            item['max_salary'] = ready_salary['max']
-            item["currency"] = ready_salary['currency']
-            collection.update_one(item, {'$set': item}, upsert=True)
-        elif spider.name == 'superjob':
-            ready_salary = self.create_sj_salary(item["salary"])
-            del item["salary"]
-            item['min_salary'] = ready_salary['min']
-            item['max_salary'] = ready_salary['max']
-            item["currency"] = ready_salary['currency']
-            collection.update_one(item, {'$set': item}, upsert=True)
+        ready_salary = self.create_hh_salary(item["salary"]) if spider.name == 'hhru' else self.create_sj_salary(
+            item["salary"])
+        del item["salary"]
+        item['min_salary'] = ready_salary['min']
+        item['max_salary'] = ready_salary['max']
+        item["currency"] = ready_salary['currency']
+        collection.update_one(item, {'$set': item}, upsert=True)
+
         return item
 
     def create_hh_salary(self, salary):
